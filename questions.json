@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "Qual é a principal função do 'Menu Iniciar' (Start Menu) no Windows?",
+    "options": [
+      { "text": "Acessar a internet.", "isCorrect": false, "rationale": "Embora possa conter o link para o navegador, essa não é sua função principal." },
+      { "text": "Gerenciar todos os arquivos do computador.", "isCorrect": false, "rationale": "Isso é feito no Explorador de Arquivos." },
+      { "text": "Fornecer acesso rápido a programas, configurações e opções de energia.", "isCorrect": true, "rationale": "O Menu Iniciar é o hub central para acessar aplicativos, documentos recentes, configurações e desligar o sistema." },
+      { "text": "Verificar e-mails.", "isCorrect": false, "rationale": "Isso é feito em um programa de e-mail (como Outlook)." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A função principal do Menu Iniciar é dar acesso a programas e configurações." }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "O que a 'Barra de Tarefas' (Taskbar) do Windows exibe por padrão?",
+    "options": [
+      { "text": "Apenas o Menu Iniciar e a Lixeira.", "isCorrect": false, "rationale": "A Lixeira geralmente fica na Área de Trabalho (Desktop)." },
+      { "text": "O Menu Iniciar, ícones de programas abertos e a área de notificação (Relógio).", "isCorrect": true, "rationale": "A Barra de Tarefas contém o Menu Iniciar, ícones de aplicativos em execução ou fixados e o relógio/notificações do sistema." },
+      { "text": "Somente a Área de Trabalho (Desktop).", "isCorrect": false, "rationale": "A Barra de Tarefas fica separada da Área de Trabalho." },
+      { "text": "Todos os arquivos salvos recentemente.", "isCorrect": false, "rationale": "Arquivos recentes são vistos no Explorador ou no Menu Iniciar." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A resposta correta é a segunda opção (Menu Iniciar, ícones de programas abertos e a área de notificação)." }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Em qual local do Windows são armazenados temporariamente os arquivos excluídos, permitindo sua restauração?",
+    "options": [
+      { "text": "Pasta 'Downloads'.", "isCorrect": false, "rationale": "A pasta Downloads armazena arquivos baixados da internet." },
+      { "text": "Área de Trabalho (Desktop).", "isCorrect": false, "rationale": "A Área de Trabalho exibe atalhos e arquivos de acesso rápido." },
+      { "text": "Lixeira (Recycle Bin).", "isCorrect": true, "rationale": "A Lixeira armazena arquivos deletados da maioria dos locais, permitindo que sejam recuperados antes de serem permanentemente excluídos." },
+      { "text": "Menu Iniciar.", "isCorrect": false, "rationale": "O Menu Iniciar é para programas e configurações." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A resposta correta é a Lixeira." }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qual componente do Windows é usado para personalizar a aparência, gerenciar usuários e desinstalar programas?",
+    "options": [
+      { "text": "Explorador de Arquivos.", "isCorrect": false, "rationale": "O Explorador de Arquivos é para navegar e gerenciar arquivos e pastas." },
+      { "text": "Central de Ações.", "isCorrect": false, "rationale": "A Central de Ações (ou Notificações) lida com alertas do sistema." },
+      { "text": "Painel de Controle / Configurações.", "isCorrect": true, "rationale": "O Painel de Controle (ou o aplicativo Configurações em versões recentes) é o local central para alterar as definições do sistema operacional." },
+      { "text": "Gerenciador de Tarefas.", "isCorrect": false, "rationale": "O Gerenciador de Tarefas é usado para monitorar o desempenho e fechar programas que não estão respondendo." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A resposta correta é o Painel de Controle / Configurações." }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "O que acontece quando você clica com o botão direito (Right Click) em um arquivo ou pasta no Windows?",
+    "options": [
+      { "text": "O arquivo é excluído permanentemente.", "isCorrect": false, "rationale": "Excluir requer um comando específico, geralmente após selecionar o item." },
+      { "text": "O arquivo é aberto.", "isCorrect": false, "rationale": "Abrir é feito com um clique duplo (ou clique único no botão esquerdo)." },
+      { "text": "Abre-se um menu de contexto com opções específicas para aquele item.", "isCorrect": true, "rationale": "O clique direito exibe um menu de contexto com ações relevantes, como Abrir, Copiar, Excluir, Renomear e Propriedades." },
+      { "text": "O item é movido para a Área de Trabalho.", "isCorrect": false, "rationale": "Mover requer arrastar e soltar ou usar o menu de contexto." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A resposta correta é a abertura do menu de contexto." }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Qual é a tecla de função usada no Windows para renomear um arquivo ou pasta selecionado?",
+    "options": [
+      { "text": "F1", "isCorrect": false, "rationale": "F1 abre a Ajuda." },
+      { "text": "F2", "isCorrect": true, "rationale": "A tecla F2 é um atalho padrão do Windows para entrar no modo de edição do nome do arquivo ou pasta selecionada." },
+      { "text": "F5", "isCorrect": false, "rationale": "F5 atualiza a janela (refrescar)." },
+      { "text": "F12", "isCorrect": false, "rationale": "F12 geralmente abre a opção 'Salvar Como' em aplicativos." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A tecla de função F2 é a correta." }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Qual atalho de teclado é usado para copiar (Copy) um item selecionado no Windows?",
+    "options": [
+      { "text": "Ctrl + V", "isCorrect": false, "rationale": "Ctrl + V é o atalho para Colar (Paste)." },
+      { "text": "Ctrl + X", "isCorrect": false, "rationale": "Ctrl + X é o atalho para Recortar (Cut)." },
+      { "text": "Ctrl + C", "isCorrect": true, "rationale": "Ctrl + C é o atalho padrão para copiar (Copy) o item selecionado para a área de transferência." },
+      { "text": "Ctrl + Z", "isCorrect": false, "rationale": "Ctrl + Z é o atalho para Desfazer (Undo)." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O atalho correto é Ctrl + C." }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "O que o atalho de teclado 'Windows + D' faz no Windows?",
+    "options": [
+      { "text": "Abre o Explorador de Arquivos.", "isCorrect": false, "rationale": "O Explorador de Arquivos é aberto com 'Windows + E'." },
+      { "text": "Bloqueia o computador.", "isCorrect": false, "rationale": "O computador é bloqueado com 'Windows + L'." },
+      { "text": "Minimiza ou restaura todas as janelas abertas para mostrar a Área de Trabalho.", "isCorrect": true, "rationale": "O 'Windows + D' serve para exibir rapidamente o Desktop e é um atalho muito útil para produtividade." },
+      { "text": "Abre as Configurações.", "isCorrect": false, "rationale": "As Configurações são abertas com 'Windows + I'." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O 'Windows + D' minimiza/restaura as janelas para mostrar o Desktop." }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "No Gerenciador de Tarefas do Windows, qual guia é usada principalmente para encerrar programas que não estão respondendo?",
+    "options": [
+      { "text": "Desempenho.", "isCorrect": false, "rationale": "A guia Desempenho mostra o uso de CPU, memória, etc." },
+      { "text": "Usuários.", "isCorrect": false, "rationale": "A guia Usuários mostra quem está logado no PC." },
+      { "text": "Processos / Aplicativos.", "isCorrect": true, "rationale": "As guias Processos (em versões recentes) ou Aplicativos (em versões mais antigas) listam os programas em execução e permitem encerrá-los ('Finalizar Tarefa')." },
+      { "text": "Histórico de Aplicativos.", "isCorrect": false, "rationale": "O Histórico de Aplicativos mostra o uso de recursos ao longo do tempo." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A guia Processos / Aplicativos é a correta." }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "O que define um 'Atalho' (Shortcut) de um programa no Windows?",
+    "options": [
+      { "text": "É o arquivo executável principal do programa.", "isCorrect": false, "rationale": "O executável principal (ex: .exe) é o arquivo fonte, não o atalho." },
+      { "text": "É uma cópia completa de todos os arquivos do programa.", "isCorrect": false, "rationale": "Isso ocuparia muito espaço, o atalho é um arquivo pequeno." },
+      { "text": "É um link rápido que aponta para o local real do arquivo original do programa.", "isCorrect": true, "rationale": "O atalho é apenas um ponteiro para o arquivo, identificado por uma pequena seta no ícone." },
+      { "text": "É um arquivo de texto que descreve o programa.", "isCorrect": false, "rationale": "Um arquivo de texto é um arquivo de texto, não um atalho." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O atalho é um link rápido para o arquivo original." }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qual atalho de teclado é usado para desfazer a última ação (Undo) na maioria dos programas do Windows?",
+    "options": [
+      { "text": "Ctrl + Y", "isCorrect": false, "rationale": "Ctrl + Y é o atalho para Refazer (Redo)." },
+      { "text": "Ctrl + D", "isCorrect": false, "rationale": "Ctrl + D geralmente duplica ou deleta itens." },
+      { "text": "Ctrl + Z", "isCorrect": true, "rationale": "Ctrl + Z é o atalho universal do Windows para desfazer a ação anterior." },
+      { "text": "Ctrl + A", "isCorrect": false, "rationale": "Ctrl + A seleciona tudo (Select All)." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A resposta correta é Ctrl + Z." }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Como você pode fechar a janela de um programa ativo usando apenas o teclado?",
+    "options": [
+      { "text": "Ctrl + F4", "isCorrect": false, "rationale": "Ctrl + F4 fecha o documento ou guia atual dentro de um programa, mas não o programa em si." },
+      { "text": "Alt + Tab", "isCorrect": false, "rationale": "Alt + Tab alterna entre janelas abertas." },
+      { "text": "Alt + F4", "isCorrect": true, "rationale": "Alt + F4 é o atalho padrão do Windows para fechar a janela ativa. Se não houver janelas abertas, ele abre a caixa de diálogo 'Desligar'." },
+      { "text": "Shift + Delete", "isCorrect": false, "rationale": "Shift + Delete exclui permanentemente um arquivo (sem passar pela Lixeira)." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O atalho correto é Alt + F4." }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "O que acontece ao pressionar o atalho 'Ctrl + Alt + Del' no Windows?",
+    "options": [
+      { "text": "Inicia um antivírus.", "isCorrect": false, "rationale": "Não é a função desse atalho." },
+      { "text": "Abre o Explorador de Arquivos.", "isCorrect": false, "rationale": "O Explorador de Arquivos é aberto com Windows + E." },
+      { "text": "Abre a tela de segurança do Windows (opções de Bloqueio, Gerenciador de Tarefas, etc.).", "isCorrect": true, "rationale": "Este atalho de segurança abre opções como Bloquear, Alternar Usuário, Logoff e o acesso ao Gerenciador de Tarefas." },
+      { "text": "Desliga o computador imediatamente.", "isCorrect": false, "rationale": "Para desligar, é preciso selecionar a opção no Menu Iniciar ou usar o Alt + F4 no Desktop." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O atalho abre a tela de segurança do Windows." }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Qual atalho de teclado é usado para alternar rapidamente entre as janelas abertas de diferentes programas?",
+    "options": [
+      { "text": "Ctrl + Shift", "isCorrect": false, "rationale": "Ctrl + Shift geralmente muda o idioma de entrada." },
+      { "text": "Alt + Tab", "isCorrect": true, "rationale": "Alt + Tab abre um painel de visualização para selecionar qual janela ativa será a próxima." },
+      { "text": "Ctrl + Tab", "isCorrect": false, "rationale": "Ctrl + Tab alterna entre guias/abas dentro de um mesmo programa (ex: navegadores)." },
+      { "text": "Windows + P", "isCorrect": false, "rationale": "Windows + P é para configurações de projeção (múltiplos monitores)." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O atalho correto para alternar entre programas é Alt + Tab." }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "O que o atalho 'Windows + E' faz no Windows?",
+    "options": [
+      { "text": "Exibe o Painel de Controle.", "isCorrect": false, "rationale": "O Painel de Controle não tem um atalho universal com Windows + E." },
+      { "text": "Abre a Central de Notificações.", "isCorrect": false, "rationale": "A Central de Notificações é aberta com Windows + A." },
+      { "text": "Abre o Explorador de Arquivos (File Explorer).", "isCorrect": true, "rationale": "Windows + E é o atalho mais rápido para abrir a janela principal de gerenciamento de arquivos e pastas." },
+      { "text": "Abre o Windows Defender.", "isCorrect": false, "rationale": "O Windows Defender é acessado pelo Menu Iniciar ou Configurações." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O Windows + E abre o Explorador de Arquivos." }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Como você seleciona todos os arquivos em uma pasta usando o teclado?",
+    "options": [
+      { "text": "Ctrl + S", "isCorrect": false, "rationale": "Ctrl + S salva." },
+      { "text": "Ctrl + A", "isCorrect": true, "rationale": "Ctrl + A (de All) é o atalho universal para selecionar todos os itens na janela ativa." },
+      { "text": "Ctrl + Enter", "isCorrect": false, "rationale": "Ctrl + Enter é usado para enviar (ex: e-mail)." },
+      { "text": "Shift + Home", "isCorrect": false, "rationale": "Shift + Home seleciona até o início da linha ou lista." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O atalho correto é Ctrl + A." }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Qual atalho de teclado é usado para colar (Paste) um item copiado ou recortado?",
+    "options": [
+      { "text": "Ctrl + C", "isCorrect": false, "rationale": "Ctrl + C copia." },
+      { "text": "Ctrl + X", "isCorrect": false, "rationale": "Ctrl + X recorta." },
+      { "text": "Ctrl + V", "isCorrect": true, "rationale": "Ctrl + V é o atalho padrão para colar o conteúdo da área de transferência." },
+      { "text": "Ctrl + P", "isCorrect": false, "rationale": "Ctrl + P imprime." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O atalho correto é Ctrl + V." }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Ao arrastar um arquivo com o mouse no Windows, o que você deve segurar no teclado para **mover** o arquivo em vez de copiá-lo?",
+    "options": [
+      { "text": "Shift", "isCorrect": true, "rationale": "Em alguns cenários (como arrastar entre diferentes discos), o Windows copia por padrão. Segurar SHIFT garante que o arquivo será movido." },
+      { "text": "Ctrl", "isCorrect": false, "rationale": "Segurar Ctrl garante que o arquivo será copiado." },
+      { "text": "Alt", "isCorrect": false, "rationale": "Alt (em conjunto com Ctrl) pode criar atalhos." },
+      { "text": "Windows", "isCorrect": false, "rationale": "A tecla Windows é usada em atalhos do sistema, não para mover arquivos." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A tecla Shift é a correta." }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Para que serve a tecla 'Print Screen' (PrtScn) no Windows?",
+    "options": [
+      { "text": "Abre o aplicativo Calculadora.", "isCorrect": false, "rationale": "Não é a função dessa tecla." },
+      { "text": "Captura a tela inteira e salva-a imediatamente como um arquivo de imagem.", "isCorrect": false, "rationale": "Para salvar imediatamente como arquivo, é geralmente usado Windows + PrtScn. PrtScn, por si só, apenas copia para a área de transferência." },
+      { "text": "Captura a tela inteira e copia a imagem para a área de transferência.", "isCorrect": true, "rationale": "Pressionar PrtScn copia o screenshot para a memória (área de transferência), permitindo que seja colado (Ctrl+V) em um editor de imagens ou documento." },
+      { "text": "Exclui a janela ativa.", "isCorrect": false, "rationale": "Excluir janelas é Alt + F4." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A tecla PrtScn copia a imagem da tela para a área de transferência." }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qual é a combinação de teclas para abrir o recurso de 'Pesquisa' (Search) do Windows de forma direta?",
+    "options": [
+      { "text": "Ctrl + F", "isCorrect": false, "rationale": "Ctrl + F geralmente abre a pesquisa *dentro* de um programa (ex: navegador)." },
+      { "text": "Windows + S", "isCorrect": true, "rationale": "Windows + S é o atalho para abrir o painel de Pesquisa (Search) no Windows." },
+      { "text": "Alt + S", "isCorrect": false, "rationale": "Não é um atalho padrão para a Pesquisa do sistema." },
+      { "text": "Windows + R", "isCorrect": false, "rationale": "Windows + R abre a caixa de diálogo 'Executar' (Run)." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A combinação correta é Windows + S." }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "O que acontece ao arrastar uma pasta de um local para outro no **mesmo** disco rígido (ex: de C:\\ para C:\\)?",
+    "options": [
+      { "text": "O arquivo é copiado por padrão.", "isCorrect": false, "rationale": "A cópia ocorre apenas se for arrastado para outro disco/unidade." },
+      { "text": "O arquivo é movido por padrão.", "isCorrect": true, "rationale": "Quando o arrasto ocorre dentro da mesma unidade/disco, o Windows assume que você deseja apenas MOVER o item, não duplicá-lo." },
+      { "text": "O arquivo é excluído.", "isCorrect": false, "rationale": "Não é a ação padrão." },
+      { "text": "Um atalho é criado.", "isCorrect": false, "rationale": "Criar atalho geralmente requer o clique direito durante o arrasto." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O arquivo é movido (dentro da mesma unidade)." }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Qual é o atalho de teclado para criar uma nova pasta no Explorador de Arquivos (na maioria das versões do Windows)?",
+    "options": [
+      { "text": "Ctrl + P", "isCorrect": false, "rationale": "Ctrl + P imprime." },
+      { "text": "Ctrl + F", "isCorrect": false, "rationale": "Ctrl + F pesquisa." },
+      { "text": "Ctrl + Shift + N", "isCorrect": true, "rationale": "Ctrl + Shift + N é o atalho padrão e mais rápido para criar um Novo item, sendo uma pasta o padrão." },
+      { "text": "Alt + N", "isCorrect": false, "rationale": "Não é um atalho padrão para essa ação." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O atalho correto é Ctrl + Shift + N." }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "O que indica a extensão de arquivo '.zip' ou '.rar'?",
+    "options": [
+      { "text": "É um arquivo de vídeo.", "isCorrect": false, "rationale": "Arquivos de vídeo usam extensões como .mp4 ou .avi." },
+      { "text": "É um arquivo de texto editável.", "isCorrect": false, "rationale": "Arquivos de texto usam .txt ou .docx." },
+      { "text": "É um arquivo compactado (comprimido) que contém um ou mais arquivos.", "isCorrect": true, "rationale": "As extensões .zip e .rar são usadas para compactar arquivos, reduzindo seu tamanho e facilitando o transporte." },
+      { "text": "É um arquivo de imagem em alta resolução.", "isCorrect": false, "rationale": "Imagens usam .jpg ou .png." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "As extensões .zip e .rar indicam arquivos compactados." }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "O que faz a ação 'Shift + Delete' ao excluir um arquivo?",
+    "options": [
+      { "text": "Envia o arquivo para a Lixeira, mas com uma confirmação especial.", "isCorrect": false, "rationale": "Envia para a Lixeira é apenas a tecla Delete." },
+      { "text": "Exclui o arquivo permanentemente, ignorando a Lixeira.", "isCorrect": true, "rationale": "Shift + Delete é o comando para exclusão definitiva, liberando imediatamente o espaço em disco." },
+      { "text": "Move o arquivo para a Área de Trabalho.", "isCorrect": false, "rationale": "Não tem relação com mover." },
+      { "text": "Cria um backup do arquivo antes de excluí-lo.", "isCorrect": false, "rationale": "Isso exigiria um software de backup." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A ação Shift + Delete exclui permanentemente o arquivo." }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Qual é a principal finalidade de um 'drive' (unidade, ex: C:\\) no Windows?",
+    "options": [
+      { "text": "Executar o antivírus do sistema.", "isCorrect": false, "rationale": "O antivírus é um programa, não uma unidade." },
+      { "text": "Armazenar e organizar dados (arquivos, programas, sistema operacional).", "isCorrect": true, "rationale": "O drive (disco rígido, SSD ou partição) é o local físico/lógico onde todos os dados do computador são armazenados." },
+      { "text": "Gerenciar a conexão Wi-Fi.", "isCorrect": false, "rationale": "Isso é feito no Painel de Controle ou Configurações de Rede." },
+      { "text": "Imprimir documentos.", "isCorrect": false, "rationale": "A impressão é feita por software e hardware (impressora)." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A finalidade principal de um drive é o armazenamento de dados." }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Ao selecionar múltiplos arquivos que não estão em sequência, qual tecla você deve manter pressionada enquanto clica em cada item?",
+    "options": [
+      { "text": "Shift", "isCorrect": false, "rationale": "O Shift seleciona todos os itens em *sequência* entre o primeiro e o último clique." },
+      { "text": "Alt", "isCorrect": false, "rationale": "Alt tem outras funções de atalho ou menu." },
+      { "text": "Ctrl", "isCorrect": true, "rationale": "A tecla Ctrl permite a seleção múltipla de itens *não adjacentes* (aleatórios)." },
+      { "text": "Tab", "isCorrect": false, "rationale": "Tab navega entre os elementos da janela." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A tecla Ctrl permite a seleção de itens não sequenciais." }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Qual é a pasta padrão onde o Windows armazena os arquivos de programas instalados?",
+    "options": [
+      { "text": "Downloads.", "isCorrect": false, "rationale": "Downloads é para arquivos baixados pelo usuário." },
+      { "text": "Documentos.", "isCorrect": false, "rationale": "Documentos é para arquivos pessoais do usuário." },
+      { "text": "Arquivos de Programas (Program Files).", "isCorrect": true, "rationale": "A pasta 'Arquivos de Programas' (e 'Arquivos de Programas (x86)') é o local padrão para a instalação dos softwares." },
+      { "text": "Desktop (Área de Trabalho).", "isCorrect": false, "rationale": "O Desktop é para atalhos e acesso rápido." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A pasta correta é Arquivos de Programas." }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Qual é o termo técnico para a rota completa de um arquivo dentro do sistema de pastas (ex: C:\\Users\\Nome\\Documentos\\arquivo.txt)?",
+    "options": [
+      { "text": "URL (Universal Resource Locator).", "isCorrect": false, "rationale": "URL é para endereços da web." },
+      { "text": "Atalho (Shortcut).", "isCorrect": false, "rationale": "Atalho é apenas o link para o arquivo." },
+      { "text": "Caminho (Path) do Arquivo.", "isCorrect": true, "rationale": "O Caminho (Path) do Arquivo é a sequência hierárquica de pastas que leva até a localização exata do arquivo." },
+      { "text": "Drive (Unidade).", "isCorrect": false, "rationale": "Drive é apenas a letra da unidade (C:\\)." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O termo correto é Caminho (Path) do Arquivo." }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "No Explorador de Arquivos, qual é a tecla que permite 'voltar' para a pasta anterior?",
+    "options": [
+      { "text": "Enter", "isCorrect": false, "rationale": "Enter abre o item selecionado." },
+      { "text": "Backspace", "isCorrect": true, "rationale": "A tecla Backspace (seta para a esquerda) é o atalho para voltar ao nível anterior na hierarquia de pastas." },
+      { "text": "Delete", "isCorrect": false, "rationale": "Delete move o item para a Lixeira." },
+      { "text": "Tab", "isCorrect": false, "rationale": "Tab navega entre os elementos da janela." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A tecla Backspace é a correta." }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Qual a finalidade de usar a opção 'Propriedades' (Properties) em um arquivo ou pasta?",
+    "options": [
+      { "text": "Abrir o arquivo ou pasta.", "isCorrect": false, "rationale": "Abrir é feito com clique duplo." },
+      { "text": "Alterar o nome do arquivo.", "isCorrect": false, "rationale": "Renomear é feito com F2." },
+      { "text": "Ver o tamanho do arquivo, data de criação e permissões de segurança.", "isCorrect": true, "rationale": "A opção Propriedades fornece informações detalhadas, como tamanho, datas, atributos (somente leitura) e configurações de segurança do item." },
+      { "text": "Imprimir o arquivo.", "isCorrect": false, "rationale": "Imprimir é feito com Ctrl + P." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A finalidade é ver detalhes e atributos do item." }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Onde o usuário deve ir para remover um programa que foi instalado no sistema?",
+    "options": [
+      { "text": "Na pasta 'Downloads'.", "isCorrect": false, "rationale": "Remover o arquivo de instalação (setup) não remove o programa do sistema." },
+      { "text": "No Gerenciador de Tarefas.", "isCorrect": false, "rationale": "O Gerenciador de Tarefas apenas encerra processos em execução." },
+      { "text": "No Painel de Controle (Programas e Recursos) ou Configurações (Aplicativos).", "isCorrect": true, "rationale": "A desinstalação deve ser feita pelo Painel de Controle ou Configurações para garantir a remoção correta de todos os arquivos de sistema e entradas de registro." },
+      { "text": "Excluir o atalho da Área de Trabalho.", "isCorrect": false, "rationale": "Excluir o atalho não remove o programa, apenas o link." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A remoção correta é feita pelo Painel de Controle ou Configurações." }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Qual é a maneira mais segura e padrão de desligar o computador no Windows?",
+    "options": [
+      { "text": "Pressionar o botão de energia no gabinete do PC.", "isCorrect": false, "rationale": "Pode causar perda de dados e danificar o sistema se o Windows não estiver pronto." },
+      { "text": "Retirar o cabo de energia da tomada.", "isCorrect": false, "rationale": "Esta é a pior forma, podendo causar danos físicos ao hardware e perda de dados." },
+      { "text": "Usar a opção 'Desligar' no Menu Iniciar.", "isCorrect": true, "rationale": "Este método garante que o sistema operacional feche todos os programas e salve as configurações antes de cortar a energia de forma segura." },
+      { "text": "Pressionar Alt + F4 na Área de Trabalho e selecionar Desligar.", "isCorrect": false, "rationale": "Alt + F4 também funciona, mas a opção no Menu Iniciar é o método mais direto e visível." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A opção 'Desligar' no Menu Iniciar é a mais segura." }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "O que a opção 'Suspender' (Sleep) faz com o computador?",
+    "options": [
+      { "text": "Desliga o computador completamente, exigindo um novo boot.", "isCorrect": false, "rationale": "Essa é a função de 'Desligar'." },
+      { "text": "Salva o trabalho e corta a energia (similar ao desligar), mas mantém o estado da sessão na memória não volátil.", "isCorrect": false, "rationale": "Essa é a função de 'Hibernar'." },
+      { "text": "Coloca o computador em um estado de baixo consumo, mantendo a sessão na memória RAM (de rápido retorno).", "isCorrect": true, "rationale": "Suspender usa pouca energia para manter o estado atual na RAM, permitindo retomar o trabalho em segundos." },
+      { "text": "Reinicia o sistema.", "isCorrect": false, "rationale": "Essa é a função de 'Reiniciar'." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A opção 'Suspender' mantém o estado na memória RAM com baixo consumo." }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Qual atalho de teclado é usado para abrir a caixa de diálogo 'Executar' (Run) no Windows?",
+    "options": [
+      { "text": "Ctrl + R", "isCorrect": false, "rationale": "Ctrl + R geralmente recarrega uma página." },
+      { "text": "Windows + R", "isCorrect": true, "rationale": "Windows + R abre a caixa de diálogo 'Executar', útil para acessar rapidamente comandos e programas (como 'cmd' ou 'notepad')." },
+      { "text": "Alt + R", "isCorrect": false, "rationale": "Não é um atalho padrão para o comando Executar." },
+      { "text": "Shift + R", "isCorrect": false, "rationale": "Não é um atalho padrão para o comando Executar." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O atalho correto é Windows + R." }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Onde o usuário pode verificar qual versão do Windows está instalada no computador?",
+    "options": [
+      { "text": "Na Lixeira.", "isCorrect": false, "rationale": "A Lixeira armazena arquivos excluídos." },
+      { "text": "No Gerenciador de Dispositivos.", "isCorrect": false, "rationale": "O Gerenciador de Dispositivos lida com hardware (placas, drives, etc.)." },
+      { "text": "Nas Configurações do Sistema (Sobre) ou Propriedades do Meu Computador.", "isCorrect": true, "rationale": "Esta informação crucial está centralizada na seção 'Sobre' do aplicativo Configurações ou nas Propriedades do 'Meu Computador'." },
+      { "text": "No Bloco de Notas (Notepad).", "isCorrect": false, "rationale": "O Bloco de Notas é um editor de texto." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A versão do Windows é verificada nas Configurações do Sistema." }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "O que são 'Drivers' no contexto do Windows?",
+    "options": [
+      { "text": "Arquivos de música ou vídeo.", "isCorrect": false, "rationale": "Não são arquivos multimídia." },
+      { "text": "Um tipo de vírus de computador.", "isCorrect": false, "rationale": "Drivers são componentes de software essenciais." },
+      { "text": "Softwares que permitem ao sistema operacional se comunicar e controlar dispositivos de hardware (Ex: Impressora, Placa de Vídeo).", "isCorrect": true, "rationale": "Sem drivers, o sistema operacional não consegue 'entender' ou operar corretamente o hardware do PC." },
+      { "text": "As teclas de atalho.", "isCorrect": false, "rationale": "As teclas de atalho são combinações de teclas." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "Drivers são softwares para comunicação com hardware." }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Qual atalho de teclado é usado para forçar a abertura do Gerenciador de Tarefas do Windows?",
+    "options": [
+      { "text": "Ctrl + F4", "isCorrect": false, "rationale": "Ctrl + F4 fecha o documento/aba atual." },
+      { "text": "Ctrl + Shift + Esc", "isCorrect": true, "rationale": "Ctrl + Shift + Esc abre o Gerenciador de Tarefas diretamente, ignorando a tela de segurança do Ctrl + Alt + Del." },
+      { "text": "Windows + T", "isCorrect": false, "rationale": "Windows + T foca nos itens da Barra de Tarefas." },
+      { "text": "Alt + F1", "isCorrect": false, "rationale": "Não é um atalho padrão para o Gerenciador de Tarefas." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O atalho direto é Ctrl + Shift + Esc." }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Qual é a finalidade principal do 'Windows Update'?",
+    "options": [
+      { "text": "Alterar a cor do Desktop.", "isCorrect": false, "rationale": "Isso é feito nas Configurações de Personalização." },
+      { "text": "Fazer backup de todos os arquivos pessoais.", "isCorrect": false, "rationale": "O backup é feito com software específico ou na nuvem." },
+      { "text": "Baixar e instalar atualizações de segurança e correções de sistema.", "isCorrect": true, "rationale": "O Windows Update é o serviço que mantém o sistema operacional seguro, estável e com novos recursos." },
+      { "text": "Desinstalar drivers de hardware.", "isCorrect": false, "rationale": "A desinstalação de drivers é feita no Gerenciador de Dispositivos." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A finalidade principal é instalar atualizações e correções de sistema." }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "No Windows, o que significa o termo 'Boot' ou 'Booting'?",
+    "options": [
+      { "text": "O processo de desligar o computador.", "isCorrect": false, "rationale": "Desligar é 'Shut Down'." },
+      { "text": "O processo de iniciar o sistema operacional e carregar todos os seus componentes.", "isCorrect": true, "rationale": "'Boot' refere-se ao processo de inicialização do computador, desde o hardware até o carregamento completo do sistema operacional." },
+      { "text": "A instalação de um novo programa.", "isCorrect": false, "rationale": "Instalar é 'Install'." },
+      { "text": "A exclusão de um arquivo malicioso.", "isCorrect": false, "rationale": "Isso é feito por um antivírus." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "Boot é o processo de inicialização do sistema operacional." }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Qual opção de 'Desligar' garante que os programas abertos sejam fechados, mas permite retornar ao trabalho mais tarde no mesmo ponto, consumindo quase nenhuma energia?",
+    "options": [
+      { "text": "Suspender (Sleep)", "isCorrect": false, "rationale": "Suspender usa pouca energia e mantém o estado na RAM." },
+      { "text": "Desligar (Shut Down)", "isCorrect": false, "rationale": "Desligar encerra a sessão completamente." },
+      { "text": "Hibernar (Hibernate)", "isCorrect": true, "rationale": "A Hibernação salva o estado atual do sistema no disco rígido (hiberfil.sys) e desliga o PC, permitindo um retorno ao trabalho exatamente onde parou." },
+      { "text": "Reiniciar (Restart)", "isCorrect": false, "rationale": "Reiniciar desliga e liga imediatamente." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A opção 'Hibernar' é a correta." }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Qual é o principal componente de segurança do Windows que protege contra vírus e malware?",
+    "options": [
+      { "text": "Central de Ações.", "isCorrect": false, "rationale": "A Central de Ações lida com notificações e status, mas não a proteção ativa." },
+      { "text": "Microsoft Edge.", "isCorrect": false, "rationale": "O Edge é o navegador de internet." },
+      { "text": "Windows Defender (ou Segurança do Windows).", "isCorrect": true, "rationale": "O Windows Defender é o software antivírus e antimalware integrado, fornecendo proteção em tempo real." },
+      { "text": "Lixeira.", "isCorrect": false, "rationale": "A Lixeira armazena arquivos excluídos." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O componente principal de segurança é o Windows Defender." }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Para que serve a 'Barra de Pesquisa' (Search Bar) dentro do Explorador de Arquivos?",
+    "options": [
+      { "text": "Abrir o navegador de internet.", "isCorrect": false, "rationale": "O navegador é aberto por um atalho ou programa." },
+      { "text": "Alterar as propriedades de segurança dos arquivos.", "isCorrect": false, "rationale": "Isso é feito no menu 'Propriedades'." },
+      { "text": "Localizar arquivos e pastas por nome, conteúdo ou tipo dentro da pasta atual.", "isCorrect": true, "rationale": "A Barra de Pesquisa é usada para filtrar rapidamente a lista de arquivos da pasta ou unidade selecionada." },
+      { "text": "Criar uma nova pasta.", "isCorrect": false, "rationale": "Criar pasta é feito com Ctrl + Shift + N." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A Barra de Pesquisa serve para localizar arquivos e pastas." }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "O que a 'área de notificação' (System Tray) na Barra de Tarefas exibe?",
+    "options": [
+      { "text": "Apenas o Menu Iniciar.", "isCorrect": false, "rationale": "O Menu Iniciar está à esquerda da Barra de Tarefas." },
+      { "text": "O nome do usuário logado.", "isCorrect": false, "rationale": "O nome do usuário pode aparecer no Menu Iniciar." },
+      { "text": "Ícones de programas rodando em segundo plano, status (ex: Volume, Bateria, Rede) e o relógio.", "isCorrect": true, "rationale": "A área de notificação, ou 'System Tray', mostra ícones que representam serviços e programas que rodam de forma discreta." },
+      { "text": "O atalho para a Lixeira.", "isCorrect": false, "rationale": "A Lixeira está no Desktop." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A área de notificação mostra o relógio e ícones de status/programas em segundo plano." }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Qual atalho de teclado você usaria para bloquear (Lock) o computador, exigindo login para usá-lo novamente?",
+    "options": [
+      { "text": "Ctrl + Alt + L", "isCorrect": false, "rationale": "Não é um atalho padrão do sistema." },
+      { "text": "Windows + L", "isCorrect": true, "rationale": "Windows + L é o atalho rápido e seguro para bloquear a sessão de usuário." },
+      { "text": "Alt + L", "isCorrect": false, "rationale": "Não é um atalho padrão do sistema." },
+      { "text": "Ctrl + Shift + L", "isCorrect": false, "rationale": "Não é um atalho padrão do sistema." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O atalho correto é Windows + L." }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "O que é um 'Sistema Operacional' (SO) como o Windows?",
+    "options": [
+      { "text": "Um aplicativo para jogos.", "isCorrect": false, "rationale": "Um SO é o núcleo do sistema, não um aplicativo de nicho." },
+      { "text": "Um hardware (peça física) do computador.", "isCorrect": false, "rationale": "É um software, não um hardware." },
+      { "text": "O software essencial que gerencia os recursos de hardware e software, fornecendo uma interface para o usuário.", "isCorrect": true, "rationale": "O SO é a ponte entre o hardware e os programas de aplicação, sendo essencial para o funcionamento do PC." },
+      { "text": "Apenas o Menu Iniciar e a Área de Trabalho.", "isCorrect": false, "rationale": "Estes são apenas elementos da interface do SO." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O Sistema Operacional é o software essencial que gerencia os recursos e a interface." }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Ao salvar um arquivo, o que a opção 'Salvar Como' (Save As) permite que o usuário faça?",
+    "options": [
+      { "text": "Apenas salvar o arquivo com o mesmo nome e na mesma localização.", "isCorrect": false, "rationale": "Isso é feito com 'Salvar' (Ctrl + S)." },
+      { "text": "Salvar o arquivo com um novo nome, em um novo local ou em um novo formato (mantendo o original).", "isCorrect": true, "rationale": "'Salvar Como' permite criar uma cópia do arquivo, dando ao usuário a liberdade de mudar nome, local e/ou formato." },
+      { "text": "Apagar o arquivo original.", "isCorrect": false, "rationale": "Não apaga, apenas salva uma cópia." },
+      { "text": "Imprimir o arquivo.", "isCorrect": false, "rationale": "Imprimir é feito com 'Imprimir' (Ctrl + P)." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A opção 'Salvar Como' permite salvar uma cópia com diferentes nome/local/formato." }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Qual é a tecla de função usada no Windows para exibir o menu de Ajuda (Help) do programa ativo?",
+    "options": [
+      { "text": "F1", "isCorrect": true, "rationale": "F1 é a tecla universal do Windows e da maioria dos programas para abrir a Ajuda contextual." },
+      { "text": "F4", "isCorrect": false, "rationale": "F4 fecha a janela ativa." },
+      { "text": "F8", "isCorrect": false, "rationale": "F8 é usado na inicialização (Modo de Segurança)." },
+      { "text": "F11", "isCorrect": false, "rationale": "F11 alterna para o modo de tela cheia (em navegadores)." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "A tecla de função correta é F1." }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "O que o 'Firewall' (Parede de Fogo) do Windows faz?",
+    "options": [
+      { "text": "Ele desfragmenta o disco rígido.", "isCorrect": false, "rationale": "Desfragmentação é para otimizar o disco." },
+      { "text": "Ele monitora e controla o tráfego de rede (entrada e saída) com base em regras de segurança.", "isCorrect": true, "rationale": "O Firewall atua como uma barreira entre a rede interna e o exterior, bloqueando conexões não autorizadas." },
+      { "text": "Ele acelera o processador do computador.", "isCorrect": false, "rationale": "Não tem a ver com velocidade de CPU." },
+      { "text": "Ele faz backup de arquivos automaticamente.", "isCorrect": false, "rationale": "Backup é feito com software dedicado." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O Firewall controla o tráfego de rede para segurança." }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "O que significa o termo 'download'?",
+    "options": [
+      { "text": "Enviar arquivos do seu computador para um servidor de internet.", "isCorrect": false, "rationale": "Isso é 'upload'." },
+      { "text": "Excluir arquivos permanentemente.", "isCorrect": false, "rationale": "Isso é exclusão ('Shift + Delete')." },
+      { "text": "Transferir dados de um computador remoto (servidor/internet) para o seu computador local.", "isCorrect": true, "rationale": "Download é o ato de baixar ou transferir informações da rede para o seu dispositivo." },
+      { "text": "Criar uma nova pasta.", "isCorrect": false, "rationale": "Criar pasta é 'Ctrl + Shift + N'." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "Download significa transferir dados de um servidor para o computador local." }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Qual é a principal função da 'Área de Trabalho' (Desktop) do Windows?",
+    "options": [
+      { "text": "Armazenar todos os arquivos do sistema operacional.", "isCorrect": false, "rationale": "Os arquivos do SO estão em pastas específicas do sistema (ex: C:\\Windows)." },
+      { "text": "Servir como local principal para acessar atalhos de programas e arquivos de trabalho em curso.", "isCorrect": true, "rationale": "O Desktop é a tela inicial para organizar e acessar atalhos e arquivos de forma rápida, mas não deve ser usado como armazenamento principal." },
+      { "text": "Gerenciar a rede Wi-Fi.", "isCorrect": false, "rationale": "Isso é feito na área de notificação/configurações." },
+      { "text": "Imprimir documentos.", "isCorrect": false, "rationale": "A impressão é feita por programas específicos." },
+      { "text": "Nenhuma das alternativas", "isCorrect": false, "rationale": "O Desktop serve como a área principal de acesso a atalhos e arquivos em uso." }
+    ]
+  }
+]
