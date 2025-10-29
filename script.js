@@ -106,7 +106,6 @@ function renderBlock() {
     
     updateNavigationButtons();
 }
-
 // 4. Criar HTML da pergunta
 function createQuestionHtml(question, globalIndex) {
     const qBlock = document.createElement('div');
